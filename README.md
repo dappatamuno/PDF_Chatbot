@@ -23,12 +23,3 @@ This project allows users to upload a PDF file and ask questions about its conte
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-## 🕒 Estimated Time Breakdown
-
-| Task | Time |
-|------|------|
-| Code writing & testing | 2–3 hours |
-| UI building | 1 hour |
-| Deployment | 30 minutes |
-| Total | ~4–5 hours |
